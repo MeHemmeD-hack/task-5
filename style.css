@@ -1,0 +1,224 @@
+.divclass {
+    padding: 50px;
+}
+
+div {
+    width: 100%;
+}
+
+.p1,
+.p2,
+.p3,
+.p4,
+.p5 {
+    background-color: rgb(81, 195, 195);
+    border: 1px solid;
+
+}
+
+.p1 {
+    padding: 30px 10px 0 0;
+}
+
+.p2 {
+    padding: 30px 10px;
+    text-align-last: center;
+}
+
+.p3 {
+    padding: 30px 0 20px 20px;
+}
+
+.p4 {
+    padding: 30px 0;
+
+}
+
+.p5 {
+    padding: 30px 0;
+    text-align-last: center;
+}
+
+.task2 {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.subtaks1 {
+    background: #876c6c1c;
+    padding: 20px 0;
+    margin: 20px 0;
+}
+
+.subtaks2 {
+    border: 5px solid blue;
+    font-style: italic;
+    padding: 20px 0;
+    margin: 20px 0;
+
+}
+
+.subtaks3 {
+    border: 5px dotted black;
+    padding: 20px 0;
+    text-decoration: line-through;
+    margin: 20px 0;
+
+}
+
+.subtaks4 {
+    border: 5px dashed rgba(0, 0, 0, 0.419);
+    padding: 20px 0;
+    text-decoration: overline;
+    margin: 20px 0;
+
+}
+
+.subtaks5 {
+    border: 5px double rgba(0, 0, 0, 0.432);
+    padding: 20px 0;
+    text-decoration: underline;
+    margin: 20px 0;
+
+}
+
+.subtaks6 {
+    padding: 20px 0;
+    border: 5px solid;
+    border-color: blueviolet coral brown blue;
+    margin: 20px 0;
+
+}
+
+.subtaks7 {
+    padding: 20px 0;
+    border-right: 5px dotted blueviolet;
+    border-bottom: 5px double orange;
+    border-left: 5px dashed brown;
+    margin: 20px 0;
+
+}
+
+.task3 h1 {
+    padding: 10px;
+    margin: 0 auto;
+    width: 200px;
+    border-bottom: 2px solid;
+    background: #516768;
+}
+.task4{
+    width: 200px;
+    
+}
+.text1{
+    padding: 20px;
+    border: 5px solid rgb(187, 187, 35);
+    margin: 20px 0 50px 50px;
+}
+.text2{
+    padding: 20px;
+    border: 5px dotted rgb(173, 173, 38);
+    margin: 20px 0px 50px 100px;
+}
+.text3{
+    padding: 20px;
+    border: 5px dashed rgb(166, 166, 40);
+    margin: 20px 0 50px 150px;
+}
+.text4{
+    padding: 20px;
+    border: 5px double rgb(168, 168, 50);
+    margin: 20px 0 50px 200px;
+}
+.task5 table{
+    margin: 0 auto;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  table{
+    width: 45%;
+    text-align: center;
+  }
+  .task6{
+    margin: 0 auto;
+    width: 40%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+  }
+.div1, .div2, .div3, .div4, .div5, .div6, .div7, .div8 {
+    background-color: brown;
+margin: 20px;
+    width: 100px;
+    height: 100px;
+}
+.div1{
+    border-radius: 10px;
+}
+.div2{
+    border-radius: 20px 0 ;
+}
+.div3{
+    border-radius: 50px 50px 0 0;
+}
+.div4{
+    border-radius: 100px 0 0 0;
+}
+.div5{
+    border-radius: 0 50px ;
+}
+.div6{
+    border-radius: 0 100px ;
+}
+.div7{
+    border-radius: 50px 50px 0;
+}
+.div8{
+    border-radius: 50px;
+}
+.task7{
+    width: 500px;
+    margin: 0 auto;
+    box-shadow: 1px 0px 20px 0px rgba(0, 0, 0, 0.384);
+}
+.task7 h1{
+    background: #00a2ff;
+    font: 500 30px arial;
+    padding: 20px;
+    color: #fff;
+}
+.task7 p{
+    padding: 10px;
+    font: 500 15px arial;
+}
+.task7 h3{
+    padding: 10px;
+    font: 500 13px arial;
+    background-color: #00a2ff;
+    color: #fff;
+}
+.task8{
+    width: 300px;
+    height: 450px;
+    margin: 50px auto;
+    border-radius: 10px ;
+    box-shadow:1px 0px 20px 0px rgba(0, 0, 0, 0.384) ;
+}
+.task8 img{
+    width: 300px;
+    border-radius: 10px;
+}
+.img{
+    margin: 20px;
+}
+.task8 h1{
+    font: 600 15px arial;
+    color: #000;
+    margin-bottom: 20px ;
+}
+.task8 p{
+    margin-bottom: 20px;
+}
